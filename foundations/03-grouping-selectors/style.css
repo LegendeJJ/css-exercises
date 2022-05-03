@@ -1,0 +1,13 @@
+.firstclass,
+.secclass{
+    font-family: Helvetica, sans-serif,"Times New Roman";
+    font-size: 28px;
+}
+
+.firstclass{
+    background-color: black;
+    color: white;
+}
+.secclass{
+    background-color: rgb(216, 216, 35);
+}
